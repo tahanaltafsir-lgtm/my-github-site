@@ -1,2 +1,9 @@
-# my-github-site
-It is an app based for the women's soccer fans. It helps people look at the results such as: champions, the runners up and the final score of all the world cups.
+# Hi, I'm Sheikh!
+## About Me
+- I'm in 11 grade at Energy Tech High School
+- I enjoy: Playing soccer, crafting and mountain biking
+## Why I'm Taking This Course
+To enhance my knowledge about coding.
+
+## What I Want to Build
+[What would you like to create by the end of this unit?]
