@@ -4,6 +4,7 @@
 - I enjoy: Playing soccer, crafting and mountain biking
 ## Why I'm Taking This Course
 To enhance my knowledge about coding.
+So i can learn the basics and answer any questions related.
 
 ## What I Want to Build
-[What would you like to create by the end of this unit?]
+I want to build a website that represents of my interests.
